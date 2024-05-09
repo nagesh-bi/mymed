@@ -21,7 +21,7 @@ Mymed
 - This system reduces bookkeeping tasks, minimizing human effort and increasing accuracy, especially during this pandemic. Booking appointments becomes easier for  doctors and patients, and patients can also provide feedback.
 - The website offers various services such as Free Checkups, 24/7 Ambulance services, Bed Facilities, and more, enhancing overall patient experience and hospital efficiency.
 
-##Screenshots
+## Screenshots:
 ![Screenshot 2024-05-09 220626](https://github.com/nagesh-bi/Mymed/assets/134669585/58a658fc-e48f-4218-80c8-28565700dd24)
 ![Screenshot 2024-05-09 220609](https://github.com/nagesh-bi/Mymed/assets/134669585/321c0df4-d90e-4201-8aff-1cf2594d5ee5)
 ![Screenshot 2024-05-09 220600](https://github.com/nagesh-bi/Mymed/assets/134669585/583d75b5-cfe9-449e-aa50-a420a9acfe4b)
