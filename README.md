@@ -25,4 +25,4 @@ Mymed
 
 Azure Web App Services, Azure Healthbot, HTML, CSS, JavaScript
 
-<pre>I hope you guys loved the project!</pre>
+<pre>I hope you guys loved this project!</pre>
